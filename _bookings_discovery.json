@@ -1,0 +1,919 @@
+{
+  "routes": [
+    {
+      "id": "3e9b1ccf-143f-4195-bdb5-3f5ae4ed88ce",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S01: Stockholm",
+      "route_code": "1",
+      "area": "Stockholm",
+      "status": "active",
+      "created_at": "2026-02-09T09:29:28.845218+00:00",
+      "updated_at": "2026-03-10T07:56:01.35938+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "cba9eec4-f974-4a21-926c-fc78125dbf5c",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S10: Halland och Kronoberg",
+      "route_code": "10",
+      "area": "Halland & Kronoberg",
+      "status": "active",
+      "created_at": "2026-02-09T09:31:11.865458+00:00",
+      "updated_at": "2026-03-09T10:14:12.608082+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "88c6f41a-c04d-4203-9a30-0d60037ebee6",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S11: Kalmar",
+      "route_code": "11",
+      "area": "Kalmar",
+      "status": "active",
+      "created_at": "2026-02-09T09:33:15.297516+00:00",
+      "updated_at": "2026-03-06T12:27:24.092604+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "d09d89a8-c737-4a61-abaf-49161910999a",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S12: Västra Götaland",
+      "route_code": "12",
+      "area": "Västra Götaland",
+      "status": "active",
+      "created_at": "2026-02-09T13:03:50.597039+00:00",
+      "updated_at": "2026-03-06T12:27:40.055246+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "710d101b-5f2d-4c0e-8d9b-19bc56bb69b4",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S13: Västmanland",
+      "route_code": "13",
+      "area": "Västmanland",
+      "status": "active",
+      "created_at": "2026-02-09T13:46:07.293707+00:00",
+      "updated_at": "2026-03-06T12:27:48.096579+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "e6468a07-664d-4b6a-9762-737008d7df10",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S14: Stockholm",
+      "route_code": "14",
+      "area": "Stockholm",
+      "status": "active",
+      "created_at": "2026-02-09T13:04:23.553941+00:00",
+      "updated_at": "2026-03-06T12:27:55.653811+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "49de7aef-c6a4-41fe-85e3-efa0195eb87b",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S15: Skåne",
+      "route_code": "15",
+      "area": "Skåne",
+      "status": "active",
+      "created_at": "2026-02-09T13:04:37.086285+00:00",
+      "updated_at": "2026-03-06T12:28:03.461815+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "55f76cd9-f742-4d71-946d-3f6f3c256c85",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S16: Skåne",
+      "route_code": "16",
+      "area": "Skåne",
+      "status": "active",
+      "created_at": "2026-02-09T13:04:50.58271+00:00",
+      "updated_at": "2026-03-06T12:28:10.374633+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "7fc4a56c-41ed-49d7-a176-de98846f5fb7",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S17: Skåne",
+      "route_code": "17",
+      "area": "Skåne",
+      "status": "active",
+      "created_at": "2026-02-09T13:05:04.135693+00:00",
+      "updated_at": "2026-03-06T12:28:16.740288+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "f76c74ca-2839-403e-b8a5-b340db27a935",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S18: Skåne",
+      "route_code": "18",
+      "area": "Skåne",
+      "status": "active",
+      "created_at": "2026-02-09T13:05:17.609604+00:00",
+      "updated_at": "2026-03-06T12:28:23.130798+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "5109f4c0-3c5a-4d9b-934b-78bd2a1985a9",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S19: Värmland",
+      "route_code": "19",
+      "area": "Värmland",
+      "status": "active",
+      "created_at": "2026-02-09T13:16:52.234054+00:00",
+      "updated_at": "2026-03-06T12:28:30.673028+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "cfb20c74-cbaa-471c-ad71-d697f781fce9",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S02: Uppsala",
+      "route_code": "2",
+      "area": "Uppsala",
+      "status": "active",
+      "created_at": "2026-02-09T13:05:53.892648+00:00",
+      "updated_at": "2026-03-10T07:55:53.10814+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "7e372b83-fa7b-44a4-8ba8-b0b94a2932a3",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S20: Stockholm",
+      "route_code": "20",
+      "area": "Stockholm",
+      "status": "active",
+      "created_at": "2026-02-09T13:25:55.273087+00:00",
+      "updated_at": "2026-03-06T12:28:46.502751+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "43633942-ccb5-40a0-8a68-525fb288511b",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S21: Gävleborg",
+      "route_code": "21",
+      "area": "Gävleborg",
+      "status": "active",
+      "created_at": "2026-02-09T13:06:30.062919+00:00",
+      "updated_at": "2026-03-06T12:28:53.719098+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "72a2cc8e-a413-42bb-9c10-ed75b6c18902",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S22: Dalarna",
+      "route_code": "22",
+      "area": "Dalarna",
+      "status": "active",
+      "created_at": "2026-02-13T13:47:02.556411+00:00",
+      "updated_at": "2026-03-06T12:29:03.351701+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "7fd292b3-2328-488b-8d05-8fd9dd196060",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S23: Kalmar",
+      "route_code": "23",
+      "area": "Kalmar",
+      "status": "active",
+      "created_at": "2026-02-09T13:07:06.217485+00:00",
+      "updated_at": "2026-03-06T12:29:12.222617+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "2f3d3576-a4fc-4413-b1ed-f9df80e7d49f",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S24: Jönköping",
+      "route_code": "24",
+      "area": "Jönköping",
+      "status": "active",
+      "created_at": "2026-02-09T13:18:16.168697+00:00",
+      "updated_at": "2026-03-06T12:29:19.324196+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "50ac807a-0071-4f16-b4ef-81397cb13e86",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S26: Västra Götaland",
+      "route_code": "26",
+      "area": "Västra Götaland",
+      "status": "active",
+      "created_at": "2026-02-09T13:07:42.284866+00:00",
+      "updated_at": "2026-03-06T12:29:29.863769+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "412ddf4b-cc3f-490a-80d0-e4da466f5d05",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S28: Norrbotten",
+      "route_code": "28",
+      "area": "Norrbotten",
+      "status": "active",
+      "created_at": "2026-02-09T13:46:26.847781+00:00",
+      "updated_at": "2026-03-06T12:29:36.726228+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "2424859a-b6fd-4679-818c-8ca6860fafce",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S29:Södermanland",
+      "route_code": "29",
+      "area": "Södermanland",
+      "status": "active",
+      "created_at": "2026-02-09T13:08:18.430909+00:00",
+      "updated_at": "2026-03-06T12:29:43.167196+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "f33118a9-374c-41e3-8197-acee749c9a6c",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S03: Stockholm",
+      "route_code": "3",
+      "area": "Stockholm",
+      "status": "active",
+      "created_at": "2026-02-09T13:45:00.308102+00:00",
+      "updated_at": "2026-03-10T07:57:20.118545+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "e7be8d17-71ac-44d9-8801-dbbf0e0599a0",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S30: Uppsala",
+      "route_code": "30",
+      "area": "Uppsala",
+      "status": "active",
+      "created_at": "2026-02-09T13:08:47.426378+00:00",
+      "updated_at": "2026-03-06T12:29:57.863598+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "8d78731e-f05c-4124-8091-fdb0f58cf495",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S32: Örebro",
+      "route_code": "32",
+      "area": "Örebro",
+      "status": "active",
+      "created_at": "2026-02-09T13:09:04.994703+00:00",
+      "updated_at": "2026-03-06T12:30:04.685462+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "899e41e0-e449-4987-88ba-c44ee6a852ac",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S34: Östergötland",
+      "route_code": "34",
+      "area": "Östergötland",
+      "status": "active",
+      "created_at": "2026-02-09T13:46:51.182659+00:00",
+      "updated_at": "2026-03-06T12:30:11.003175+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "6f458326-b997-464d-9818-cc62b685e587",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S35: Östergötland",
+      "route_code": "35",
+      "area": "Östergötland",
+      "status": "active",
+      "created_at": "2026-02-09T13:09:05.086769+00:00",
+      "updated_at": "2026-03-06T12:30:17.367519+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "11b5226d-d63e-42b7-8a62-8cdea8ea3ab0",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S36: Västerbotten",
+      "route_code": "36",
+      "area": "Västerbotten",
+      "status": "active",
+      "created_at": "2026-02-09T13:09:58.999917+00:00",
+      "updated_at": "2026-03-06T12:30:23.3398+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "f0f93c7a-34b6-4ecb-b4bf-b0178bdd0b07",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S37: Halland, Kronoberg, Skåne, Västra Götaland",
+      "route_code": "37",
+      "area": "Halland & Kronoberg",
+      "status": "active",
+      "created_at": "2026-02-09T13:52:00.48455+00:00",
+      "updated_at": "2026-03-09T10:09:22.606804+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "64fb3283-e873-4b99-a993-6b750ef9cdc9",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S38: Gävleborg",
+      "route_code": "38",
+      "area": "Gävleborg",
+      "status": "active",
+      "created_at": "2026-02-09T13:10:32.986295+00:00",
+      "updated_at": "2026-03-06T12:30:36.688477+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "3e0d6779-e404-4b58-b6af-2b1e00260014",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S39: Örebro",
+      "route_code": "39",
+      "area": "Örebro",
+      "status": "active",
+      "created_at": "2026-02-09T13:52:20.438598+00:00",
+      "updated_at": "2026-03-06T12:30:43.071437+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "6cabd6d5-bc84-4800-8fcc-bbacbe4afc34",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S04: Örebro och Södermanland",
+      "route_code": "4",
+      "area": "Södermanland",
+      "status": "active",
+      "created_at": "2026-02-09T13:10:59.982212+00:00",
+      "updated_at": "2026-03-10T07:57:34.791025+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "5d8251a2-4ae5-4148-9be3-5f773f6cc382",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S42: Jämtland och Västernorrland",
+      "route_code": "42",
+      "area": "Västernorrland & Jämtland",
+      "status": "active",
+      "created_at": "2026-02-09T13:52:43.120708+00:00",
+      "updated_at": "2026-03-09T10:10:35.113498+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "893927f8-6fc7-42bd-ba02-24ff5ef90f6b",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S44: Jönköping",
+      "route_code": "44",
+      "area": "Jönköping",
+      "status": "active",
+      "created_at": "2026-02-09T13:11:25.817741+00:00",
+      "updated_at": "2026-03-06T12:31:01.190616+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "5e296d7e-4e1a-42c3-a53b-dd9ff1cdd606",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S46: Dalarna",
+      "route_code": "46",
+      "area": "Dalarna",
+      "status": "active",
+      "created_at": "2026-02-09T13:19:02.222872+00:00",
+      "updated_at": "2026-03-06T12:31:08.614021+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "b352e233-29aa-48d9-ae02-837e15c3348a",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S05: Jämtland och Västernorrland",
+      "route_code": "5",
+      "area": "Västernorrland & Jämtland",
+      "status": "active",
+      "created_at": "2026-02-09T13:12:06.498734+00:00",
+      "updated_at": "2026-03-10T08:22:24.43085+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "0040cc90-08c7-4cb5-b9bf-ba71c4a4c4b4",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S06: Norrbotten",
+      "route_code": "6",
+      "area": "Norrbotten",
+      "status": "active",
+      "created_at": "2026-02-09T13:45:11.878671+00:00",
+      "updated_at": "2026-03-10T08:22:36.562723+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "711989f6-e5f2-48d5-9a2c-22b3a64637a4",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S07: Västra Götaland",
+      "route_code": "7",
+      "area": "Västra Götaland",
+      "status": "active",
+      "created_at": "2026-02-09T13:12:42.677715+00:00",
+      "updated_at": "2026-03-10T08:22:49.775257+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "9bef1a05-d7a5-4a8f-b5ab-8fda3639d7a0",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S08: Västra Götaland",
+      "route_code": "8",
+      "area": "Västra Götaland",
+      "status": "active",
+      "created_at": "2026-02-09T13:45:36.938679+00:00",
+      "updated_at": "2026-03-10T08:22:58.395462+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "f410878b-86ac-4ce2-8a47-acb383d34b4e",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "S09: Västra Götaland",
+      "route_code": "9",
+      "area": "Västra Götaland",
+      "status": "active",
+      "created_at": "2026-02-09T13:13:16.829759+00:00",
+      "updated_at": "2026-03-10T08:23:05.699847+00:00",
+      "route_color": null,
+      "description": null
+    },
+    {
+      "id": "f257b991-934f-42ff-9558-97875d4b73dd",
+      "brand_id": "22222222-2222-2222-2222-222222222222",
+      "name": "Test Route 1",
+      "route_code": "test1",
+      "area": null,
+      "status": "active",
+      "created_at": "2026-01-20T11:55:00.560467+00:00",
+      "updated_at": "2026-01-20T11:55:00.560467+00:00",
+      "route_color": null,
+      "description": null
+    }
+  ],
+  "stopsRaw": [
+    [
+      1,
+      26,
+      43,
+      60,
+      78,
+      95,
+      112
+    ],
+    {
+      "id": 2,
+      "scheduledDate": 3,
+      "startTime": 4,
+      "endTime": 5,
+      "uuidCode": 6,
+      "status": 7,
+      "location": 8,
+      "route": 16,
+      "travelToNext": 21,
+      "displayLabel": 25
+    },
+    "c99cf8dd-c51c-46b4-ba2d-bb54a9cad8f6",
+    "2026-03-16",
+    "09:00:00",
+    "10:00:00",
+    "YJQKE4QI",
+    "scheduled",
+    {
+      "id": 9,
+      "title": 10,
+      "address": 11,
+      "postcode": 12,
+      "city": 13,
+      "latitude": 14,
+      "longitude": 15
+    },
+    "18323a2b-84aa-47f8-8301-37b9db4a91cc",
+    "Scandic Opalen",
+    "Engelbrektsgatan 73",
+    "41140",
+    "Göteborg",
+    57.7013246,
+    11.9849419,
+    {
+      "id": 17,
+      "name": 18,
+      "routeCode": 19,
+      "area": 20
+    },
+    "50ac807a-0071-4f16-b4ef-81397cb13e86",
+    "S26: Västra Götaland",
+    "26",
+    "Västra Götaland",
+    {
+      "durationSeconds": 22,
+      "distanceMeters": 23,
+      "estimated": 24
+    },
+    393,
+    3513,
+    false,
+    "Scandic Opalen (09:00-10:00)",
+    {
+      "id": 27,
+      "scheduledDate": 3,
+      "startTime": 28,
+      "endTime": 29,
+      "uuidCode": 30,
+      "status": 7,
+      "location": 31,
+      "route": 38,
+      "travelToNext": 39,
+      "displayLabel": 42
+    },
+    "76452572-7aa8-4fa3-96df-4ad84b40e8f9",
+    "10:10:00",
+    "11:10:00"
+  ],
+  "stops": [
+    {
+      "id": "c99cf8dd-c51c-46b4-ba2d-bb54a9cad8f6",
+      "scheduledDate": "2026-03-16",
+      "startTime": "09:00:00",
+      "endTime": "10:00:00",
+      "uuidCode": "YJQKE4QI",
+      "status": "scheduled",
+      "location": {
+        "id": 9,
+        "title": 10,
+        "address": 11,
+        "postcode": 12,
+        "city": 13,
+        "latitude": 14,
+        "longitude": 15
+      },
+      "route": {
+        "id": 17,
+        "name": 18,
+        "routeCode": 19,
+        "area": 20
+      },
+      "travelToNext": {
+        "durationSeconds": 22,
+        "distanceMeters": 23,
+        "estimated": 24
+      },
+      "displayLabel": "Scandic Opalen (09:00-10:00)"
+    },
+    {
+      "id": "76452572-7aa8-4fa3-96df-4ad84b40e8f9",
+      "scheduledDate": "2026-03-16",
+      "startTime": "10:10:00",
+      "endTime": "11:10:00",
+      "uuidCode": "1BH6LJIE",
+      "status": "scheduled",
+      "location": {
+        "id": 32,
+        "title": 33,
+        "address": 34,
+        "postcode": 35,
+        "city": 13,
+        "latitude": 36,
+        "longitude": 37
+      },
+      "route": {
+        "id": 17,
+        "name": 18,
+        "routeCode": 19,
+        "area": 20
+      },
+      "travelToNext": {
+        "durationSeconds": 40,
+        "distanceMeters": 41,
+        "estimated": 24
+      },
+      "displayLabel": "Coop Kallebäck (10:10-11:10)"
+    },
+    {
+      "id": "290e926d-7bf7-474b-a9ed-9f64ff1f733e",
+      "scheduledDate": "2026-03-16",
+      "startTime": "11:15:00",
+      "endTime": "12:15:00",
+      "uuidCode": "0CTP591V",
+      "status": "scheduled",
+      "location": {
+        "id": 49,
+        "title": 50,
+        "address": 51,
+        "postcode": 52,
+        "city": 13,
+        "latitude": 53,
+        "longitude": 54
+      },
+      "route": {
+        "id": 17,
+        "name": 18,
+        "routeCode": 19,
+        "area": 20
+      },
+      "travelToNext": {
+        "durationSeconds": 57,
+        "distanceMeters": 58,
+        "estimated": 24
+      },
+      "displayLabel": "ICA Maxi Stormarknad Göteborg (11:15-12:15)"
+    },
+    {
+      "id": "e1efcfc9-2877-4273-87ed-8c112f4c4177",
+      "scheduledDate": "2026-03-16",
+      "startTime": "12:25:00",
+      "endTime": "13:25:00",
+      "uuidCode": "Z2BTFEZ4",
+      "status": "scheduled",
+      "location": {
+        "id": 66,
+        "title": 67,
+        "address": 68,
+        "postcode": 69,
+        "city": 70,
+        "latitude": 71,
+        "longitude": 72
+      },
+      "route": {
+        "id": 17,
+        "name": 18,
+        "routeCode": 19,
+        "area": 20
+      },
+      "travelToNext": {
+        "durationSeconds": 75,
+        "distanceMeters": 76,
+        "estimated": 24
+      },
+      "displayLabel": "OKQ8 Krokslätt (12:25-13:25)"
+    },
+    {
+      "id": "49dba4c8-60df-45ce-8f12-05725ea8512c",
+      "scheduledDate": "2026-03-16",
+      "startTime": "13:45:00",
+      "endTime": "14:45:00",
+      "uuidCode": "YXRQOC6C",
+      "status": "scheduled",
+      "location": {
+        "id": 84,
+        "title": 85,
+        "address": 86,
+        "postcode": 87,
+        "city": 13,
+        "latitude": 88,
+        "longitude": 89
+      },
+      "route": {
+        "id": 17,
+        "name": 18,
+        "routeCode": 19,
+        "area": 20
+      },
+      "travelToNext": {
+        "durationSeconds": 92,
+        "distanceMeters": 93,
+        "estimated": 24
+      },
+      "displayLabel": "Pendelparkering Brottkärrsmotet (13:45-14:45)"
+    },
+    {
+      "id": "7e623523-f703-476a-9ac0-965900bc0c53",
+      "scheduledDate": "2026-03-16",
+      "startTime": "15:00:00",
+      "endTime": "16:00:00",
+      "uuidCode": "RG4FFZWH",
+      "status": "scheduled",
+      "location": {
+        "id": 101,
+        "title": 102,
+        "address": 103,
+        "postcode": 104,
+        "city": 13,
+        "latitude": 105,
+        "longitude": 106
+      },
+      "route": {
+        "id": 17,
+        "name": 18,
+        "routeCode": 19,
+        "area": 20
+      },
+      "travelToNext": {
+        "durationSeconds": 109,
+        "distanceMeters": 110,
+        "estimated": 24
+      },
+      "displayLabel": "Mariaplan – torgparkering (15:00-16:00)"
+    },
+    {
+      "id": "a18c1184-c7f5-4ea5-aae3-a73a664ae5d6",
+      "scheduledDate": "2026-03-16",
+      "startTime": "16:20:00",
+      "endTime": "17:20:00",
+      "uuidCode": "IB3UJ904",
+      "status": "scheduled",
+      "location": {
+        "id": 118,
+        "title": 119,
+        "address": 120,
+        "postcode": 121,
+        "city": 13,
+        "latitude": 122,
+        "longitude": 123
+      },
+      "route": {
+        "id": 17,
+        "name": 18,
+        "routeCode": 19,
+        "area": 20
+      },
+      "travelToNext": null,
+      "displayLabel": "Gröna Vallen Parkering (16:20-17:20)"
+    }
+  ],
+  "bookingsRaw": [
+    [
+      1,
+      29,
+      40
+    ],
+    {
+      "id": 2,
+      "email": 3,
+      "phone": 4,
+      "firstName": 5,
+      "lastName": 6,
+      "bookingTime": 7,
+      "notes": 8,
+      "driverNotes": 8,
+      "status": 9,
+      "createdAt": 10,
+      "scheduledStop": 11,
+      "displayName": 25,
+      "displayTime": 26,
+      "hasMatchingCustomer": 27,
+      "crmSalesCount": 28
+    },
+    "fa68c904-821d-4ad4-be30-dfe089c6fa47",
+    "ehizogie7@gmail.com",
+    "+460733772880",
+    "Gabriel",
+    "Ehizogie",
+    "11:15:00",
+    null,
+    "no_show",
+    "2026-03-11T12:46:34.088968+00:00",
+    {
+      "id": 12,
+      "scheduledDate": 13,
+      "startTime": 7,
+      "endTime": 14,
+      "uuidCode": 15,
+      "location": 16,
+      "route": 21
+    },
+    "290e926d-7bf7-474b-a9ed-9f64ff1f733e",
+    "2026-03-16",
+    "12:15:00",
+    "0CTP591V",
+    {
+      "id": 17,
+      "city": 18,
+      "title": 19,
+      "address": 20
+    },
+    "1fb13e3e-d79a-4339-b627-c6acc03dcebd",
+    "Göteborg",
+    "ICA Maxi Stormarknad Göteborg",
+    "Grafiska vägen 16",
+    {
+      "id": 22,
+      "name": 23,
+      "route_code": 24
+    },
+    "50ac807a-0071-4f16-b4ef-81397cb13e86",
+    "S26: Västra Götaland",
+    "26",
+    "Gabriel Ehizogie",
+    "11:15",
+    false,
+    0,
+    {
+      "id": 30,
+      "email": 31,
+      "phone": 32,
+      "firstName": 5,
+      "lastName": 33,
+      "bookingTime": 7,
+      "notes": 8,
+      "driverNotes": 8,
+      "status": 34,
+      "createdAt": 35,
+      "scheduledStop": 36,
+      "displayName": 39,
+      "displayTime": 26,
+      "hasMatchingCustomer": 27,
+      "crmSalesCount": 28
+    }
+  ],
+  "bookings": [
+    {
+      "id": "fa68c904-821d-4ad4-be30-dfe089c6fa47",
+      "email": "ehizogie7@gmail.com",
+      "phone": "+460733772880",
+      "firstName": "Gabriel",
+      "lastName": "Ehizogie",
+      "bookingTime": "11:15:00",
+      "notes": null,
+      "driverNotes": null,
+      "status": "no_show",
+      "createdAt": "2026-03-11T12:46:34.088968+00:00",
+      "scheduledStop": {
+        "id": 12,
+        "scheduledDate": 13,
+        "startTime": 7,
+        "endTime": 14,
+        "uuidCode": 15,
+        "location": 16,
+        "route": 21
+      },
+      "displayName": "Gabriel Ehizogie",
+      "displayTime": "11:15",
+      "hasMatchingCustomer": false,
+      "crmSalesCount": 0
+    },
+    {
+      "id": "975615ae-29a7-49c5-be23-4320dbdae3a7",
+      "email": "gabriel.glenz@pipelife.com",
+      "phone": "+46761151086",
+      "firstName": "Gabriel",
+      "lastName": "Glenz",
+      "bookingTime": "11:15:00",
+      "notes": null,
+      "driverNotes": null,
+      "status": "no_sell",
+      "createdAt": "2026-03-16T09:31:08.564181+00:00",
+      "scheduledStop": {
+        "id": 12,
+        "scheduledDate": 13,
+        "startTime": 7,
+        "endTime": 14,
+        "uuidCode": 15,
+        "location": 37,
+        "route": 38
+      },
+      "displayName": "Gabriel Glenz",
+      "displayTime": "11:15",
+      "hasMatchingCustomer": false,
+      "crmSalesCount": 0
+    },
+    {
+      "id": "be6ad914-6eb9-449d-8bff-e05c52394ec3",
+      "email": "dagmikaelolofsson@gmail.com",
+      "phone": "+460761997202",
+      "firstName": "Mikael",
+      "lastName": "Olofsson",
+      "bookingTime": "15:00:00",
+      "notes": null,
+      "driverNotes": null,
+      "status": "no_sell",
+      "createdAt": "2026-03-11T12:51:20.503619+00:00",
+      "scheduledStop": {
+        "id": 49,
+        "scheduledDate": 13,
+        "startTime": 46,
+        "endTime": 50,
+        "uuidCode": 51,
+        "location": 52,
+        "route": 56
+      },
+      "displayName": "Mikael Olofsson",
+      "displayTime": "15:00",
+      "hasMatchingCustomer": false,
+      "crmSalesCount": 0
+    }
+  ],
+  "dateUsed": "2026-03-16",
+  "routeUsed": {
+    "id": "50ac807a-0071-4f16-b4ef-81397cb13e86",
+    "name": "S26: Västra Götaland"
+  }
+}
